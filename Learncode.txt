@@ -3,3 +3,6 @@ I have to dive in :
 - CSS
 - JavaScript (focus on typescript, react)
 - Purchase Mern Stack courses
+
+Notion
+- finish my notion mastery course after eid
