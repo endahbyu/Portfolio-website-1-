@@ -1,0 +1,4 @@
+I have to dive in :
+- HTML
+- CSS
+- JavaScript (focus on typescript, react)
