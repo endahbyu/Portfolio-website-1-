@@ -3,3 +3,5 @@ I have to dive in :
 - CSS
 - JavaScript (focus on typescript, react)
 - Purchase Mern Stack courses
+
+Shopify computer language: liquid and remix
