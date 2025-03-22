@@ -1,3 +1,4 @@
 Portfolio Wesite
 - Responsive design
-- Dark mode
+- Dark mode 
+- 4 pages (Home, About, Project, Contact)
