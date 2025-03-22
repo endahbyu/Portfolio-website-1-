@@ -2,7 +2,7 @@ I have to dive in :
 - HTML
 - CSS
 - JavaScript (focus on typescript, react)
-- Purchase Mern Stack courses
+- We need to consider again about purchase Mern Stack courses, because I already have alot of courses didn't finish yet
 
 Notion
 - finish my notion mastery course after eid
