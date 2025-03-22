@@ -2,6 +2,8 @@ I have to dive in :
 - HTML
 - CSS
 - JavaScript (focus on typescript, react)
-- Purchase Mern Stack courses
+- We need to consider again about the purchase Mern Stack course, because I already have alot of course but didn't finish them
 
-Shopify computer language: liquid and remix
+Notion
+- finish my notion mastery course after eid
+- Shopify computer language: liquid and remix
