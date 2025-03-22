@@ -1,4 +1,4 @@
 I have to dive in :
 - HTML
 - CSS
-- JavaScript
+- JavaScript (focus on typescript, react)
